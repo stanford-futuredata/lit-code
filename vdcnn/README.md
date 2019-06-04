@@ -1,4 +1,4 @@
-# LIT: bLockwise Intermediate Representation Training
+# LIT: Learned Intermediate Representation Training
 
 We provide pytorch implementations for the paper LIT: bLockwise Intermediate Representation Training for Model Compression
 The code was written by Animesh Koratana and Daniel Kang. 
